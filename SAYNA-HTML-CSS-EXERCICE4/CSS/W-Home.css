@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@font-face{
+    font-family:VENUM;
+    src: url(../font/VENUM.otf);
+    font-style:normal ;
+    font-weight: 100;
+
+}
+
+*{
+    font-family: 'Montserrat';
+    text-align: justify;
+    text-justify: newspaper;
+
+}
+h1{
+    font-family: 'VENUM';
+}
+body{margin: 0; 
+    padding: 0;
+    
+
+}
+
+footer{
+text-align: initial;
+}
+
+.bd-nav{background-color: #b11313; padding: 0.80rem;}
+ 
+@media (max-width:768px) {
+    body{
+        
+    }
+    .bd-nav { 
+        
+    background-color: rgb(0, 0, 0);  }
+           
+    
+
+    }
+    
+ 
+
+.LIENS ul {
+    margin-top: 20px;
+}
+
+
+#LOGO figure img {  padding: 10px; }
+
+.lofa{
+    background-color: #b11313;
+    border-radius: 50%;
+    padding: 7px;
+    
+}
+
+
+.loin{
+    background-color: #b11313;
+    border-radius: 50%;
+    padding: 7px;
+}
+
+
+.loyo{
+    background-color: #b11313;
+    border-radius: 50%;
+    padding: 7px;
+}
+
+
+.lotw{
+    background-color: #b11313;
+    border-radius: 50%;
+    padding: 7px;
+    
+}
+
+.bloc1{
+    background-image: url(../Assets/Illustration/img1.png);
+    background-repeat: no-repeat;
+    background-size: 100%  ;
+    padding: 300px;
+ 
+}
+
+.SPIDEY{
+    font-family: 'VENUM';
+}
+ 
+/* 
+@media (max-width:768px) {
+    *{
+        display: none;
+    }
+    
+} */
+
+.SPIDERMAN{
+    font-size: 11vh;
+    padding-top: 18vw;
+    color:#FFFFFF;font-family:  'venum' ;
+    
+}
+
+.BOUTTONS1{
+    
+   padding-left: 200PX;
+}
+ 
+.AUCINE{
+margin-left: 218px;
+}
+
+
+.INSCRIPTION{
+   padding-left: 200px;
+}
+
+.placeblanc::placeholder{
+    color: #FFFFFF;
+}
+
+.placenoir::placeholder{
+    color: #000;
+}
+ 
+.SPIDERMANMOBILE{
+    margin-top:240px ;
+    font-size: 6vw;
+   
+}
+
+
+.BOUT{
+    margin-left: 75px;
+     border: 0px solid #FFFFFF;
+     background-color: #FFFFFF;border-radius: 15px;
+     padding: 5% 7%;
+}
+
+@media  (max-width:768px){
+    .LOGOHEADER{
+        width:70% ;
+       
+        margin-top: 15px;
+    }
+    
+
+    .SYMPA{
+        font-size: 2.5vw;
+    }
+ 
+    .boutton2{
+        margin-left: 200px;
+        margin-bottom: px;
+    }
+ 
+    
+    .CARDS{
+        margin-left: 10%;
+    }
+
+    .card-text {
+        text-align: center;
+     
+    }
+
+.DEVIENS{
+     
+    margin-top: -68%;
+
+}
+
+.REMPLIR{
+color: #FFFFFF;
+margin-left: 70px;
+font-size: 2.3vw;
+  
+}
+
+.INFO{
+    margin-left: 23%;
+}
+
+
+ 
+.BOUT{
+    margin-left: 75px;
+     border: 0px solid #FFFFFF;
+     background-color: #FFFFFF;border-radius: 50PX;
+     padding: 5% 7%;
+}
+
+
+.NEWSLETTERS{
+    color: #FFFFFF;
+     padding: 0;
+     margin: 0;
+     text-align: unset;
+     font-size: 3.9vw;
+margin-top: 100px;
+ margin-left: -100PX;
+
+}
+.UNIVERS{
+    color: #FFFFFF;
+    text-align: center;
+   padding-top: 20px;
+    margin-left: -200px;
+}
+.PUT{
+    margin-top: -150PX;
+    margin-left: -150PX;
+}
+.REC{
+    margin-left: -80PX;
+}
+
+.MOBILEMENU{ margin-top: 30px; width: 100px;} 
+
+ 
+
+}

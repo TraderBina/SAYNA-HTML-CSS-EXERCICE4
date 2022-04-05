@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@font-face{
+    font-family:VENUM;
+    src: url('../font/VENUM.otf');
+    font-style:normal ;
+    font-weight: 100;
+
+}
+
+ 
+*{
+    font-family: 'Montserrat';
+    text-align: justify;
+    text-justify: newspaper;
+
+}
+
+ 
+ 
+
+h1{font-family: 'VENUM';}
+
+body{margin: 0; 
+    padding: 0;
+    
+
+}
+
+footer{
+text-align: initial;
+}
+
+ 
+
+
+ 
+
+.bd-nav{background-color: #114c92; padding: 0.80rem;}
+ 
+@media (max-width:768px) {
+   
+
+    }
+    
+ 
+
+.LIENS ul {
+    margin-top: 20px;
+}
+
+
+#LOGO figure img {  padding: 10px; }
+
+.lofa{
+    background-color:#114c92;
+    border-radius: 50%;
+    padding: 7px;
+    
+}
+
+
+.loin{
+    background-color: #114c92;
+    border-radius: 50%;
+    padding: 7px;
+}
+
+
+.loyo{
+    background-color:#114c92;
+    border-radius: 50%;
+    padding: 7px;
+}
+
+
+.lotw{
+    background-color: #114c92;
+    border-radius: 50%;
+    padding: 7px;
+    
+}
+ 
+ 
+/* 
+@media (max-width:768px) {
+    *{
+        display: none;
+    }
+    
+} */
+ 
+
+ 
+
+ @media (max-width:767px) {
+    .MOBILEMENU{  width: 100px;}  
+ .bd-nav { 
+        
+    background-color: rgb(0, 0, 0);
+ 
+
+ }
+ 
+
+.video{
+ 
+margin-left: -75PX;
+
+}
+
+
+
+
+}
+
+ 
